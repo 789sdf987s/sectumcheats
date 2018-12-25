@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SECTUM", "sectumcheats\sectum.us.vcxproj", "{97874F6E-34F4-42CC-804A-E0E6B386C723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Debug|x64.ActiveCfg = Debug|x64
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Debug|x64.Build.0 = Debug|x64
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Debug|x86.ActiveCfg = Debug|Win32
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Debug|x86.Build.0 = Debug|Win32
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Release|x64.ActiveCfg = Release|Win32
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Release|x64.Build.0 = Release|Win32
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Release|x86.ActiveCfg = Release|Win32
+		{97874F6E-34F4-42CC-804A-E0E6B386C723}.Release|x86.Build.0 = Release|Win32
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Debug|x64.ActiveCfg = Debug|x64
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Debug|x64.Build.0 = Debug|x64
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Debug|x86.ActiveCfg = Debug|Win32
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Debug|x86.Build.0 = Debug|Win32
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Release|x64.ActiveCfg = Release|x64
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Release|x64.Build.0 = Release|x64
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Release|x86.ActiveCfg = Release|Win32
+		{54E247C9-8093-4982-9C33-1B15BAB66C33}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FFA9A3-9498-418F-8D62-2034E8ECC5F8}
+	EndGlobalSection
+EndGlobal
