@@ -9,9 +9,13 @@
 Functional:
  Aimbot:
    ♦ Enable
+   
    ♦ Aim on Key
+   
    ♦ Fire on team
+   
    ♦ Smoke Check
+   
    ♦ Flash Check
    ♦ Jump Check
    ♦ Flash Alpha
