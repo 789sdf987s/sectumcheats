@@ -1,2 +1,2 @@
-# sectumcheats
-suicidehookv2
+# SECTUM.CC
+csgo hack c++
