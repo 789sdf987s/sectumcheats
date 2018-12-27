@@ -23,12 +23,7 @@ Functional:
    ♦ Flash Check
    
    ♦ Jump Check
-   
-   ♦ Flash Alpha
-   
-   ♦ Delay
-   
-   
+      
    
  Visuals:
  
@@ -51,5 +46,33 @@ Functional:
    ♦ Skeleton
    
    ♦ Aim Snap Lines
+   
+   
+ Misc:
+ 
+   ♦ Bhop
+   
+   ♦ Watermark
+   
+   ♦ Auto-Strafe
+   
+   ♦ Name-Spam
+   
+   ♦ Clantag-Spam
+   
+   ♦ Anti-Untrusted
+   
+   ♦ Third Person
+   
+   ♦ UnHook
+   
+   
+ Settings:
+ 
+   ♦ Save Config
+   
+   ♦ Load Config
+   
+ 
    
    
