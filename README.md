@@ -7,7 +7,9 @@
 
 
 Functional:
+
  Aimbot:
+ 
    ♦ Enable
    
    ♦ Aim on Key
@@ -17,9 +19,34 @@ Functional:
    ♦ Smoke Check
    
    ♦ Flash Check
+   
    ♦ Jump Check
+   
    ♦ Flash Alpha
+   
    ♦ Delay
    
+   
  Visuals:
+ 
+   ♦ Box
+   
+   ♦ Pyramid
+   
+   ♦ Name
+   
+   ♦ Weapon
+   
+   ♦ HealthBar
+   
+   ♦ ArmorBar
+   
+   ♦ Scoped
+   
+   ♦ Flashed
+   
+   ♦ Skeleton
+   
+   ♦ Aim Snap Lines
+   
    
