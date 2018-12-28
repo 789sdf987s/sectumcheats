@@ -371,7 +371,7 @@ void DrawMenu()
 			mainWindowPos = ImGui::GetWindowPos();
 			const char* tabNames[] = {
 				   "Aimbot" , "Visuals" , "Misc" ,
-				   "Skins" , };
+				   "Settings" , };
 
 			static int tabOrder[] = { 0 , 1 , 2 , 3 , 4 , 5 , 6 };
 			const bool tabChanged = ImGui::TabLabels(tabNames, sizeof(tabNames) / sizeof(tabNames[0]), tabSelected, tabOrder);
@@ -457,7 +457,7 @@ void DrawMenu()
 			if (tabSelected == 2)
 			{
 				ImGui::Checkbox("bhop", &Settings.Misc.Bunnyhop);
-				//ImGui::Checkbox("Watermark", &Settings.Misc.Watermark);
+				//ImGui::Checkbox("Watermark", &Settings.Misc.Watermark); //watermark square
 				ImGui::Checkbox("Autostrafe", &Settings.Misc.Autostrafe);
 				ImGui::Checkbox("Name-Spam", &Settings.Misc.Namespam);
 				ImGui::Checkbox("Clantag-Spam", &Settings.Misc.ClanChanger);
