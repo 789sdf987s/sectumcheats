@@ -1,5 +1,4 @@
 # SECTUM.CC
-卐 csgo hack c++ 卐
 
 [Coder](https://vk.com/suic1de1337)
 
